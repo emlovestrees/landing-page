@@ -62,18 +62,15 @@ h1 {
     text-align: center;
 }
 
-.featured {
+.img-fav {
     display: flex;
     font-size: 12px;
     gap: 20px;
     justify-content: center;
-}
-
-.fav {
     width: 150px;
 }
 
-.img-fav {
+.img-fav img {
     width: 150px;
     height: auto;
 }
