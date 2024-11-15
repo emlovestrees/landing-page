@@ -51,3 +51,7 @@ h1 {
     color: #cfe8ef;
     size: 48px;
 }
+
+.top-block p {
+    font-size: 16px;
+}
