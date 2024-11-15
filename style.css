@@ -36,3 +36,7 @@ ul {
 img {
     width: 250px;
 }
+
+.top-block {
+    display: flex;
+}
