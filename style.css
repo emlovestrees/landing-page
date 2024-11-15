@@ -64,7 +64,6 @@ h1 {
 
 .img-fav {
     display: flex;
-    font-size: 12px;
     gap: 20px;
     justify-content: center;
     width: 150px;
@@ -78,4 +77,12 @@ h1 {
 .featured {
     display: flex;
     flex-direction: column;
+}
+
+.fav-text {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    width: 150px;
+    gap: 20px;
 }
