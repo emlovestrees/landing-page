@@ -70,3 +70,8 @@ h1 {
 .fav {
     width: 150px;
 }
+
+.img-fav {
+    width: 150px;
+    height: auto;
+}
