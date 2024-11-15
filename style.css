@@ -100,3 +100,11 @@ h1 {
     background-color: #CFE8EF;
     color: #0D5C63;
 }
+
+.center {
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    width: 680px;
+    flex: 0 1 auto;
+}
