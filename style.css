@@ -59,7 +59,7 @@ h1 {
 }
 
 .block-2 {
-    background-color: #E89BB5;
+    background-color: #cfe8ef;
     text-align: center;
     color: #190e4f;
 }
@@ -97,8 +97,8 @@ h1 {
 }
 
 .quote {
-    background-color: #CFE8EF;
-    color: #0D5C63;
+    background-color: #E89BB5;
+    color: #190e4f;
     padding: 50px;
 }
 
@@ -118,14 +118,14 @@ h1 {
 }
 
 .cta-block {
-    background-color: #E89BB5;
+    background-color: #cfe8ef;
     display: flex;
     justify-content: center;
 }
 
 .cta {
     background-color: #190e4f;
-    color: #cfe8ef;
+    color: #E89BB5;
     width: 680px;
     margin: 50px;
     border-radius: 20px;
