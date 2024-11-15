@@ -63,14 +63,14 @@ h1 {
     text-align: center;
 }
 
-.img-fav {
+.fav-images {
     display: flex;
     gap: 20px;
     width: 150px;
     align-items: center;
 }
 
-.img-fav img {
+.fav-images img {
     width: 150px;
     height: auto;
 }
