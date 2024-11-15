@@ -63,4 +63,9 @@ h1 {
 .featured {
     display: flex;
     font-size: 12px;
+    gap: 20px;
+}
+
+.fav {
+    width: 150px;
 }
