@@ -2,11 +2,15 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
 .header {
     background-color: #190e4f;
     color: #cfe8ef;
+    display: flex;
+    padding: 10px;
+
 }
 
 .header a {
@@ -19,6 +23,8 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .logo {
