@@ -43,7 +43,7 @@ ul {
     display: flex;
     justify-content: space-around;
     background-color: #190e4f;
-    color: #73a1bf;
+    color: #e0f0f5;
     gap: 15px;
     padding: 10px 50px;
     align-items: flex-start;
@@ -59,7 +59,7 @@ h1 {
 }
 
 .block-2 {
-    background-color: #bc7c9c;
+    background-color: #E89BB5;
     text-align: center;
     color: #190e4f;
 }
@@ -94,4 +94,9 @@ h1 {
 .fav-text p {
     width: 150px;
     flex: 0 1 auto;
+}
+
+.quote {
+    background-color: #CFE8EF;
+    color: #0D5C63;
 }
