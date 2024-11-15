@@ -41,3 +41,8 @@ img {
 .top-block {
     display: flex;
 }
+
+h1 {
+    color: #cfe8ef;
+    size: 48px;
+}
