@@ -10,7 +10,7 @@ body {
     color: #cfe8ef;
     display: flex;
     padding: 10px;
-
+    justify-content: space-around;
 }
 
 .header a {
@@ -25,6 +25,7 @@ ul {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
 }
 
 .logo {
