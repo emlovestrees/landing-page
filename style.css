@@ -61,6 +61,7 @@ h1 {
 .block-2 {
     background-color: #bc7c9c;
     text-align: center;
+    color: #190e4f;
 }
 
 .fav-images {
@@ -73,6 +74,8 @@ h1 {
 .fav-images img {
     width: 150px;
     height: auto;
+    border-radius: 5%;
+    flex: 0 1 auto;
 }
 
 .featured {
@@ -90,4 +93,5 @@ h1 {
 
 .fav-text p {
     width: 150px;
+    flex: 0 1 auto;
 }
