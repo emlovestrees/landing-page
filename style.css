@@ -60,7 +60,6 @@ h1 {
 .block-2 {
     background-color: #bc7c9c;
     text-align: center;
-    display: flex;
 }
 
 .img-fav {
@@ -74,4 +73,9 @@ h1 {
 .img-fav img {
     width: 150px;
     height: auto;
+}
+
+.featured {
+    display: flex;
+    flex-direction: column;
 }
