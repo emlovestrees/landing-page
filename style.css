@@ -59,12 +59,14 @@ h1 {
 
 .block-2 {
     background-color: #bc7c9c;
+    text-align: center;
 }
 
 .featured {
     display: flex;
     font-size: 12px;
     gap: 20px;
+    justify-content: center;
 }
 
 .fav {
