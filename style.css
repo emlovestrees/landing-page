@@ -82,6 +82,10 @@ h1 {
 .fav-text {
     display: flex;
     font-size: 12px;
-    width: 150px;
+    
     gap: 20px;
+}
+
+.fav-text p {
+    width: 150px;
 }
