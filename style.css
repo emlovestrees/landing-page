@@ -9,8 +9,8 @@ body {
     background-color: #190e4f;
     color: #cfe8ef;
     display: flex;
-    padding: 10px;
-    justify-content: space-around;
+    padding: 10px 20px;
+    justify-content: space-between;
 }
 
 .header a {
