@@ -7,3 +7,8 @@ body {
     background-color: #190e4f;
     color: #cfe8ef;
 }
+
+.header a {
+    text-decoration: none;
+    color: #cfe8ef;
+}
