@@ -66,8 +66,8 @@ h1 {
 .fav-images {
     display: flex;
     gap: 20px;
-    width: 150px;
     align-items: center;
+    justify-content: center;
 }
 
 .fav-images img {
