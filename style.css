@@ -59,3 +59,7 @@ h1 {
 .block-2 {
     background-color: #bc7c9c;
 }
+
+.featured {
+    display: flex;
+}
