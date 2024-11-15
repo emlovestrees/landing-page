@@ -2,3 +2,8 @@ body {
     display: flex;
     font-family: 'Roboto', sans-serif;
 }
+
+.header {
+    background-color: #190e4f;
+    color: #cfe8ef;
+}
