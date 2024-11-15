@@ -12,3 +12,9 @@ body {
     text-decoration: none;
     color: #cfe8ef;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
