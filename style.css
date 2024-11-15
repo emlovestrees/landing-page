@@ -46,6 +46,7 @@ ul {
     color: #73a1bf;
     gap: 15px;
     padding: 10px 50px;
+    align-items: flex-start;
 }
 
 h1 {
