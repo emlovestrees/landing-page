@@ -43,6 +43,8 @@ img {
     justify-content: space-evenly;
     background-color: #190e4f;
     color: #73a1bf;
+    gap: 10px;
+    padding: 10px 20px;
 }
 
 h1 {
