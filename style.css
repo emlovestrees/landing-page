@@ -40,6 +40,8 @@ img {
 
 .top-block {
     display: flex;
+    background-color: #190e4f;
+    color: #73a1bf;
 }
 
 h1 {
