@@ -156,3 +156,10 @@ h1 {
 button {
     padding: 3px 15px;
 }
+
+.top-block button {
+    background-color: #e89bb5;
+    color: #190e4f;
+    border-radius: 5px;
+    border: none;
+}
