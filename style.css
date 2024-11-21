@@ -132,7 +132,8 @@ h1 {
     font-size: 12px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    padding: 20px 60px;
+    gap: 15px;
 }
 
 .cta button {
@@ -142,4 +143,16 @@ h1 {
     border-radius: 5px;
     font-size: 12px;
     white-space: nowrap;
+}
+
+.left h4 {
+    margin-bottom: 0px;
+}
+
+.left p {
+    margin-top: 5px;
+}
+
+button {
+    padding: 3px 15px;
 }
