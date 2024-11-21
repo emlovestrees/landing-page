@@ -132,3 +132,10 @@ h1 {
     padding: 0px 20px 15px 20px;
     font-size: 12px;
 }
+
+.cta button {
+    background-color: #190e4f;
+    color: #E89BB5;
+    border: 2px #E89BB5 solid;
+    border-radius: 5px;
+}
