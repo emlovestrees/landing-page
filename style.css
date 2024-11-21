@@ -97,8 +97,8 @@ h1 {
 }
 
 .quote {
-    background-color: #E89BB5;
-    color: #190e4f;
+    background-color: #0d5c63;
+    color: #cfe8ef;
     padding: 50px;
 }
 
@@ -125,7 +125,7 @@ h1 {
 
 .cta {
     background-color: #190e4f;
-    color: #E89BB5;
+    color: #cfe8ef;
     width: 680px;
     margin: 50px;
     border-radius: 15px;
@@ -138,8 +138,8 @@ h1 {
 
 .cta button {
     background-color: #190e4f;
-    color: #E89BB5;
-    border: 1.5px #E89BB5 solid;
+    color: #cfe8ef;
+    border: 1.5px #cfe8ef solid;
     border-radius: 5px;
     font-size: 12px;
     white-space: nowrap;
