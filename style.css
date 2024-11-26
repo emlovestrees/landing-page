@@ -23,9 +23,15 @@ ul {
     display: flex;
 }
 
-.header {
+.header,
+.top-block,
+.cta,
+.cta button {
     background-color: #190e4f;
     color: #cfe8ef;
+}
+
+.header {
     padding: 10px 70px;
     justify-content: space-between;
 }
@@ -56,8 +62,6 @@ ul {
 
 .top-block {
     justify-content: space-around;
-    background-color: #190e4f;
-    color: #e0f0f5;
     gap: 15px;
     padding: 40px 70px;
     align-items: flex-start;
@@ -136,8 +140,6 @@ h1 {
 }
 
 .cta {
-    background-color: #190e4f;
-    color: #cfe8ef;
     width: 680px;
     margin: 50px;
     border-radius: 15px;
@@ -148,8 +150,6 @@ h1 {
 }
 
 .cta button {
-    background-color: #190e4f;
-    color: #cfe8ef;
     border: 1.5px #cfe8ef solid;
     border-radius: 5px;
     font-size: 12px;
