@@ -9,10 +9,23 @@ ul {
     display: flex;
 }
 
+.header,
+.top-block,
+.fav-images,
+.featured,
+.fav-text,
+.quote,
+.center,
+#attribution,
+.cta-block,
+.cta,
+.footer {
+    display: flex;
+}
+
 .header {
     background-color: #190e4f;
     color: #cfe8ef;
-    display: flex;
     padding: 10px 70px;
     justify-content: space-between;
 }
@@ -42,7 +55,6 @@ ul {
 }
 
 .top-block {
-    display: flex;
     justify-content: space-around;
     background-color: #190e4f;
     color: #e0f0f5;
@@ -69,7 +81,6 @@ h1 {
 }
 
 .fav-images {
-    display: flex;
     gap: 20px;
     align-items: center;
     justify-content: center;
@@ -83,12 +94,10 @@ h1 {
 }
 
 .featured {
-    display: flex;
     flex-direction: column;
 }
 
 .fav-text {
-    display: flex;
     font-size: 12px;
     align-items: center;
     gap: 20px;
@@ -104,12 +113,10 @@ h1 {
     background-color: #0d5c63;
     color: #cfe8ef;
     padding: 50px;
-    display: flex;
     flex-direction: column;
 }
 
 .center {
-    display: flex;
     align-self: center;
     text-align: center;
     width: 680px;
@@ -117,7 +124,6 @@ h1 {
 }
 
 #attribution {
-    display: flex;
     width: 680px;
     justify-content: flex-end;
     font-weight: 700;
@@ -125,7 +131,6 @@ h1 {
 
 .cta-block {
     background-color: #cfe8ef;
-    display: flex;
     justify-content: center;
     padding: 0px 70px;
 }
@@ -137,7 +142,6 @@ h1 {
     margin: 50px;
     border-radius: 15px;
     font-size: 12px;
-    display: flex;
     align-items: center;
     padding: 20px 60px;
     gap: 15px;
@@ -175,7 +179,6 @@ button {
     background-color: #0d5c63;
     color: #cfe8ef;
     font-size: 12px;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
