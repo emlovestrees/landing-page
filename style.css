@@ -128,9 +128,10 @@ h1 {
 }
 
 #attribution {
-    width: 680px;
+    width: 640px;
     justify-content: flex-end;
     font-weight: 700;
+    margin: 0;
 }
 
 .cta-block {
